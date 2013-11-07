@@ -1,0 +1,7 @@
+require 'tinypass/builder/client_builder'
+require 'tinypass/builder/client_parser'
+require 'tinypass/builder/cookie_parser'
+require 'tinypass/builder/json_msg_builder'
+require 'tinypass/builder/open_encoder'
+require 'tinypass/builder/secure_encoder'
+require 'tinypass/builder/security_utils'
